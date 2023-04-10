@@ -1,6 +1,6 @@
 ---
 title: "Why You Should Learn Python: The Best Programming Language for Beginners"
-seoTitle: "The Ultimate Guide to Learning Python: Why it's the Best Programming"
+seoTitle: "The Ultimate Guide to Learning Python: Why it's the Best For Newbies"
 seoDescription: "Looking to start your programming journey? Discover why Python is the best beginners programming language  with its easy-to-understand syntax and versatile"
 datePublished: Mon Apr 10 2023 16:55:23 GMT+0000 (Coordinated Universal Time)
 cuid: clgb2ra87000a0al3fa0m1xhb
@@ -34,34 +34,38 @@ If Python was a lady she'd be so easy to understand and this would actually solv
 
 That being said let's look at the top 5 reasons why you should get familiar with Python in no particular order:
 
-1. ### Python is Easy to Learn:
+* ### Python is Easy to Learn:
     
-    Learning Python is like learning to speak to a computer in plain English because its [syntax](https://en.wikipedia.org/wiki/Syntax_(programming_languages)) is very easy to understand and straightforward, its the best language to start out with as a beginner.
-    
-2. ### Python is Very Very Versatile:
+
+Learning Python is like learning to speak to a computer in plain English because its [syntax](https://en.wikipedia.org/wiki/Syntax_(programming_languages)) is very easy to understand and straightforward, its the best language to start out with as a beginner.
+
+* ### Python is Very Very Versatile:
     
 
 If Python were an employee it would be very resourceful because Python has so many applications from Automation to Web Development to Machine Learning to Artificial Intelligence, you can use Python for almost anything, it has thousands of applications.
 
-1. ### Many people Care About Python
+* ### Many people Care About Python
     
-    WDIM? I mean python has a community so large there's no error you can encounter using Python that someone has not encountered before and many people have posted solutions to online communities like stack overflow and others so beginners can find them also these people have also created libraries and frameworks to continually increase the number of things you can do using python(Applications).
-    
-    There's a huge amount of people using Python every second of the day. Check out the official Community [here](https://www.python.org/community/).
-    
-2. ### The Doors Are Wide Open
+
+WDIM? I mean python has a community so large there's no error you can encounter using Python that someone has not encountered before and many people have posted solutions to online communities like stack overflow and others so beginners can find them also these people have also created libraries and frameworks to continually increase the number of things you can do using python(Applications).
+
+There's a huge amount of people using Python every second of the day. Check out the official Community [here](https://www.python.org/community/).
+
+* ### The Doors Are Wide Open
     
 
 Python is open source which means people in the community can upgrade, edit and fix Issues within the language source this has boosted the growth and popularity of Python, now it's impossible for a programmer not to be familiar with the name 'Python', this is to assure you python is here to stay forever and it's only going to get better.
 
-1. ### Anywhere You Want me I'd Be There
+* ### Anywhere You Want me I'd Be There
     
-    That's what Python says to you because whatever laptop you have, whatever operating system you have, whatever specification you've got, Python's got you covered. After all, Python can run on multiple platforms like Mac Os, Windows, Linux e.t.c without any modifications at all.
-    
+
+That's what Python says to you because whatever laptop you have, whatever operating system you have, whatever specification you've got, Python's got you covered. After all, Python can run on multiple platforms like Mac Os, Windows, Linux e.t.c without any modifications at all.
 
 ---
 
 I haven't forgotten.. I got you covered.
+
+## My Piece
 
 Below are a few tips you should use when starting in Python:
 
@@ -84,8 +88,4 @@ Below are a few tips you should use when starting in Python:
 > 
 > \-Guido Van Rossum
 
-[Subscribe to my newsletter here for more content like this weekly](https://dotunel.hashnode.dev/newsletter)
-
-### You've Got This!
-
-### Stay Jiggy.
+**You've Got This, Stay Jiggy!**
